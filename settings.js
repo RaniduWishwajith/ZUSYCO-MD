@@ -11,7 +11,7 @@
 
 
 Project Name : ZUSYCO - MD
-Creator : @darkmakerofc , @mr-nima-x 
+Creator : @darkmakerofc , @Ranidu-wishwajith-x 
 
 */
 
