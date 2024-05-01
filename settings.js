@@ -18,7 +18,7 @@ Creator : @darkmakerofc , @Ranidu-wishwajith-x
 module.exports = {
   OWNER_NUMBER: "94773077959",
   SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 ＲＡＮＩＤＵ 』",
+  OWNER_NAME: "『 ＲＡＮＩＤＵ ＷＩＳＨＷＡＪＩＴＨ 』",
   BOT_NAME : "ＲＶ ＭＤ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
@@ -48,8 +48,8 @@ module.exports = {
         NOT_WORKING : false,
   },
   READ : {
-     ALL_MESSAGES : true,
-     ONLY_COMMANDS : false,
+     ALL_MESSAGES : false,
+     ONLY_COMMANDS : true,
      STATUS : false,
   },
   BOT_OFFLINE : false,
