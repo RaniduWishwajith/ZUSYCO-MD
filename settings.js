@@ -18,7 +18,7 @@ Creator : @darkmakerofc , @Ranidu-wishwajith-x
 module.exports = {
   OWNER_NUMBER: "94773077959",
   SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 ＲＡＮＩＤＵ ＷＩＳＨＷＡＪＩＴＨ』",
+  OWNER_NAME: "『 ＲＡＮＩＤＵ    ＷＩＳＨＷＡＪＩＴＨ』",
   BOT_NAME : "ＲＶ ＭＤ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
@@ -72,7 +72,7 @@ module.exports = {
     "thugs" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-thugs.mp3",
 
   },
-  AUTO_STICKER : false,
+  AUTO_STICKER : true,
   STICKERS : {
     "pit" : "https://i.ibb.co/NVLMQDP/pit.webp",
     "agei" : "https://i.ibb.co/yqk8QQ9/agei.webp",
